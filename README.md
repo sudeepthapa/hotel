@@ -7,4 +7,4 @@
 
 ### Mobile View
 
-<img src='screenshots/flexbox-mobile.png>
+<img src='screenshots/flexbox-mobile.png'>
